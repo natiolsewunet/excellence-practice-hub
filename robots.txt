@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://natiolsewunet.github.io/excellence-practice-hub/sitemap.xml
