@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <title>Excellence Practice Hub</title>
+
+    <title>Asking and Answering Questions | Excellence Practice Hub</title>
 
     <link rel="stylesheet" href="/Users/natiol/Documents/GitHub/excellence-practice-hub/css/style.css">
 </head>
@@ -13,6 +13,7 @@
 <body>
 
     <header>
+
         <h1>Excellence Practice Hub</h1>
 
         <nav>
@@ -27,66 +28,51 @@
             <a href="/Users/natiol/Documents/GitHub/excellence-practice-hub/Subjects/Geography/geography.html">Geography</a>
             <a href="/Users/natiol/Documents/GitHub/excellence-practice-hub/Subjects/Economics/economics.html">Economics</a>
             <a href="/Users/natiol/Documents/GitHub/excellence-practice-hub/Subjects/History/history.html">History</a>
+       
         </nav>
-    </header>
 
+    </header>
 
     <main>
 
-        <!-- HOME -->
-        <section id="home" class="hero">
-        
-            <div class="hero-content">
+        <section class="english-hero">
 
-                 <h2>Learn. Practice. Improve.</h2>
+            <h2>Asking and Answering Questions</h2>
 
-                    <p>
-
-                        Build your knowledge with structured lessons,practice exercises, and resources across different subjects.
-                    
-                    </p>
-
-                    <a href="/Users/natiol/Documents/GitHub/excellence-practice-hub/Subjects/English/english.html" class="hero-button">Start Practicing</a>
-
-             </div>
+            <p>
+                Practice common English question forms and appropriate responses.
+            </p>
 
         </section>
 
+        <section class="exam-section">
 
+            <p id="question-number"></p>
 
+            <h2 id="question-text"></h2>
 
-        <!-- ABOUT -->
-        <section id="about" class="about-section">
+            <div id="answer-list" class="answer-list"></div>
 
-            <div class="about-content">
+            <button id="check-button" class="exam-button">
+                Check Answer
+            </button>
 
-                 <h2>About Excellence Practice Hub</h2>
+            <div id="explanation-box" class="explanation-box"></div>
 
-                     <p>
-                        Excellence Practice Hub is designed to help students learn,
-                        practice, and improve across a wide range of academic subjects.
-                    
-                    </p>
-
-                    <p>
-                        Our goal is to provide clear explanations, structured practice,
-                        and useful learning resources that support steady progress.
-                    </p>
-
-            </div>
+            <button id="next-button" class="exam-button next-button">
+                Next Question
+            </button>
 
         </section>
-
 
     </main>
 
-
     <footer>
-
-        <p>© 2026 Learning Platform</p>
-
+        <p>© 2026 Excellence Practice Hub</p>
     </footer>
 
+    <script src="/Users/natiol/Documents/GitHub/excellence-practice-hub/Subjects/English/communicative-activities/uee-exams/2025.js"></script>
+    <script src="/Users/natiol/Documents/GitHub/excellence-practice-hub/js/practice-engine.js"></script>
 </body>
 
 </html>
