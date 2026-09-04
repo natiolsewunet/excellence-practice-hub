@@ -1,6 +1,5 @@
 window.questions = [
 
-
     {
         question: "_____ do you live?",
 
