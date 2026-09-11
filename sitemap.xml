@@ -2,8 +2,59 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+    <!-- Home -->
     <url>
         <loc>https://excellencepracticehub.com/</loc>
+    </url>
+
+    <!-- Information -->
+    <url>
+        <loc>https://excellencepracticehub.com/Subjects/Information/information.html</loc>
+    </url>
+
+    <!-- English -->
+    <url>
+        <loc>https://excellencepracticehub.com/Subjects/English/english.html</loc>
+    </url>
+
+    <!-- Mathematics -->
+    <url>
+        <loc>https://excellencepracticehub.com/Subjects/Mathematics/mathematics.html</loc>
+    </url>
+
+    <!-- SAT -->
+    <url>
+        <loc>https://excellencepracticehub.com/Subjects/Sat/sat.html</loc>
+    </url>
+
+    <!-- Physics -->
+    <url>
+        <loc>https://excellencepracticehub.com/Subjects/Physics/physics.html</loc>
+    </url>
+
+    <!-- Chemistry -->
+    <url>
+        <loc>https://excellencepracticehub.com/Subjects/Chemistry/chemistry.html</loc>
+    </url>
+
+    <!-- Biology -->
+    <url>
+        <loc>https://excellencepracticehub.com/Subjects/Biology/biology.html</loc>
+    </url>
+
+    <!-- Geography -->
+    <url>
+        <loc>https://excellencepracticehub.com/Subjects/Geography/geography.html</loc>
+    </url>
+
+    <!-- Economics -->
+    <url>
+        <loc>https://excellencepracticehub.com/Subjects/Economics/economics.html</loc>
+    </url>
+
+    <!-- History -->
+    <url>
+        <loc>https://excellencepracticehub.com/Subjects/History/history.html</loc>
     </url>
 
 </urlset>
